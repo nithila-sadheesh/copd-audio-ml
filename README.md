@@ -1,1 +1,1 @@
-# COPD_Detection
+# COPD_Detection from Lung Sound Recordings
